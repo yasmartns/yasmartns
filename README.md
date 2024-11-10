@@ -54,11 +54,4 @@
 ###
 </div>
 
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/yasmartns/yasmartns/output/snake.svg" alt="Snake animation" />
-
-###
 
