@@ -1,8 +1,3 @@
-- 🤍 Sou estudante de Programação de Jogos
-- 🐚 Estou aprendendo HTML & GDScript
-- ☁️ e-mail: yasmingomes2977@gmail.com
-- ⭐ Pronouns: ela/dela
-
 <h2 align="center">Oii! Sejam bem vindos ao meu GitHub</h2>
 
 ###
@@ -43,6 +38,12 @@
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="34" alt="gmail logo"  />
   </a>
 </div>
+
+- 🤍 Sou estudante de Programação de Jogos
+- 🐚 Estou aprendendo HTML & GDScript
+- ☁️ e-mail: yasmingomes2977@gmail.com
+- ⭐ Pronouns: ela/dela
+
 
 ###
 
