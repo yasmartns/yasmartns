@@ -1,4 +1,3 @@
-## Oii!! Eu sou a Yasmin
 - 🤍 Sou estudante de Programação de Jogos
 - 🐚 Estou aprendendo HTML & GDScript
 - ☁️ e-mail: yasmingomes2977@gmail.com
