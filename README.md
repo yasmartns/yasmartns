@@ -15,7 +15,7 @@
 
 ###
 
-<img align="left" height="150" src="https://i.redd.it/qw1ezfkuwmyb1.gif"  />
+<img align="right" height="150" src="https://i.redd.it/qw1ezfkuwmyb1.gif"  />
 
 ###
 
@@ -43,6 +43,15 @@
   <a href="yasmingomes2977@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="34" alt="gmail logo"  />
   </a>
+</div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/yasmartns/yasmartns/output/snake.svg" alt="Snake animation" />
+
+###
 </div>
 
 ###
