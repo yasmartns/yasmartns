@@ -1,6 +1,6 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=96C8F7&width=435&separator=%3C&lines=console.log(%22Hello%2C+World!%22);" alt="Typing SVG" /></a>
 
-Hi! I'm Yasmin, passionate about game development, I love crating immersive worlds and interactive experiences. Currently exploring Godot, while improving my skills along the way.
+Hi! I'm Yasmin, passionate about game development, I love creating immersive worlds and interactive experiences. Currently exploring Godot, while improving my skills along the way.
 
 💡 Always curious and experimenting with new ideas!
 
